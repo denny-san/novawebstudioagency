@@ -5,7 +5,7 @@ const FloatingButton: React.FC = () => {
   const [showMessage, setShowMessage] = useState(false);
   
   // REEMPLAZA ESTE LINK CON TU WHATSAPP REAL
-  const WHATSAPP_LINK = "https://wa.me/1234567890";
+  const WHATSAPP_LINK = "https://wa.me/qr/MKIKJYUKQQQZE1";
 
   const handleClick = () => {
     setShowMessage(true);
